@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/yo-gif12/player_off#readme",
   "devDependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^1.12.4",
+    "sass": "^1.26.5"
   },
   "dependencies": {}
 }
