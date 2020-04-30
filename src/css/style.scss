@@ -1,0 +1,25 @@
+@import "reset";
+@import "global";
+
+* {
+    box-sizing: border-box;
+    color: black;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+
+header {
+    height: 20vh;
+    border: 2px solid red;
+}
+
+.imageHeader {
+    border: 2px solid pink;
+    display: block;
+    background: url("../assets/imgs/header-tuna.jpg")no-repeat;
+    object-fit: contain;
+    width: 80vw;
+    height: auto;
+}
